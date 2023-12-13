@@ -1,0 +1,1 @@
+This is my final project for my COGS18 class. This is a coffee drink bot who will ask you a series of questions to determine what drink best matches your personality. Based on your answers, the bot will calculate points that will give you a drink reccomendation. Enjoy!
